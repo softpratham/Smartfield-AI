@@ -1,0 +1,33 @@
+
+
+register on below website and create api key 
+and replace this api key to config.py file 
+and follow below steps to run project
+
+https://home.openweathermap.org/users/sign_up
+
+
+1. open anaconda prompt
+
+conda activate plant
+cd E:\Plant_Disease_Dection\app
+E:
+
+python app.py 
+
+
+then open browser and enter url
+
+http://127.0.0.1:5000/
+
+
+
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+this is dataset used for training model , you can use same to test disease detection model
+
+E:\Plant_Disease_Dection\Nutrition\datset
+
+
+this is nutrition dataset , u can sue this for testing
+
+

@@ -33,6 +33,7 @@
 ---
 
 ## 📁 Project Structure
+```
 Smartfield-AI/
 │
 ├── app.py # Flask main application
@@ -44,7 +45,7 @@ Smartfield-AI/
 ├── /data/ # CSV datasets (crop, fertilizer, yield)
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+```
 ---
 
 ## 💡 Modules Explained
